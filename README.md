@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto ES6 e Testes Unitários!!
+# Boas-vindas ao repositório do projeto ES6 e Testes Unitários!!!
 
 Para realizar o projeto, preste atenção em cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
